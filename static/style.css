@@ -1,0 +1,28 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#form-heading{
+   text-align: center;
+   color: black;
+   font-size: 40px;
+   font-weight: 100;
+   margin-top: 0px;
+   margin-bottom: 20px;
+   background-color:tomato;
+   color:white;
+   padding:10px;
+}
+.new-container{
+    max-width: 500px;
+    padding:20px;
+    background-color: wheat;
+    border-radius: 15px;
+}
+.btn-danger{
+    background-color:tomato;
+}
+.bg-danger{
+    background-color:tomato !important;
+}
